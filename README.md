@@ -6,6 +6,6 @@ This project involves the analysis and prediction of billionaires' wealth based 
 
 🛠️ Technologies Used
 
-Programming Language: R
+Programming Language: **R**
 
 Statistical Analysis Tools: R libraries for data analysis and visualization
